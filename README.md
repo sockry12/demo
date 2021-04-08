@@ -3,7 +3,7 @@
 
 
 
-Welcome to my React and Node tutorial to build a fully-functional e-commerce website  build an e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
+Welcome to my React and Node  to build a fully-functional e-commerce website  build an e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
 
 #
 
